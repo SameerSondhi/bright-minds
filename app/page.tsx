@@ -34,7 +34,7 @@ export default function Home() {
         {/* Testimonials */}
         <section className="w-full max-w-3xl text-center py-12">
           <h2 className="text-3xl font-bold mb-6 text-[#1F75CB]">What Students Are Saying</h2>
-          <blockquote className="italic mb-4">"BrightMind helped me improve my SAT score dramatically and get into my top choice!"</blockquote>
+          <blockquote className="italic mb-4">{"BrightMind helped me improve my SAT score dramatically and get into my top choice!"}</blockquote>
           <p className="font-semibold">— Sarah L., High School Senior</p>
           <blockquote className="italic mt-8 mb-4">{"I finally balanced my MBA program and full-time job, thanks to BrightMind’s tailored help."}</blockquote>
           <p className="font-semibold">— Alex T., MBA Candidate</p>
