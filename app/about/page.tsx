@@ -10,7 +10,7 @@ export default function About() {
 
             <section className="max-w-3xl mx-auto py-8 text-center">
                 <h2 className="text-2xl font-bold mb-4 text-[#1F75CB]">Contact</h2>
-                <p className="mb-6">Have questions or ready to get started? We’d love to hear from you.</p>
+                <p className="mb-6">Have questions or ready to get started? We would love to hear from you.</p>
                 <a
                     href="mailto:hello@brightmind.com"
                     className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"

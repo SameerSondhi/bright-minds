@@ -36,7 +36,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-6 text-[#1F75CB]">What Students Are Saying</h2>
           <blockquote className="italic mb-4">"BrightMind helped me improve my SAT score dramatically and get into my top choice!"</blockquote>
           <p className="font-semibold">— Sarah L., High School Senior</p>
-          <blockquote className="italic mt-8 mb-4">"I finally balanced my MBA program and full-time job, thanks to BrightMind’s tailored help."</blockquote>
+          <blockquote className="italic mt-8 mb-4">{"I finally balanced my MBA program and full-time job, thanks to BrightMind’s tailored help."}</blockquote>
           <p className="font-semibold">— Alex T., MBA Candidate</p>
         </section>
 
@@ -53,14 +53,14 @@ export default function Home() {
           </div>
           <div>
             <h3 className="font-semibold">How do I start?</h3>
-            <p>Book a free consultation below and we’ll create your personalized study plan.</p>
+            <p>Book a free consultation below and we will create your personalized study plan.</p>
           </div>
         </section>
 
         {/* Contact */}
         <section id="contact" className="w-full max-w-3xl text-center py-16">
           <h2 className="text-3xl font-bold mb-4 text-[#1F75CB]">Start Your Journey Today</h2>
-          <p className="mb-6">Reach out and let's create a roadmap for your success together.</p>
+          <p className="mb-6">Reach out and let us create a roadmap for your success together.</p>
           <a
               href="mailto:hello@brightmind.com"
               className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"
