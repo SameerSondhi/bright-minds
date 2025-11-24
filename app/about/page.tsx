@@ -4,7 +4,7 @@ export default function About() {
             <section className="max-w-4xl mx-auto text-center py-12">
                 <h1 className="text-4xl font-extrabold mb-4 text-[#1F75CB]">About BrightMind</h1>
                 <p className="text-lg mb-8">
-                    Founded by a passionate educator dedicated to helping students excel at every stage. Whether you're tackling high school algebra or managing an MBA course load, we believe in personalized, supportive guidance.
+                    Founded by a passionate educator dedicated to helping students excel at every stage. Whether you are tackling high school algebra or managing an MBA course load, we believe in personalized, supportive guidance.
                 </p>
             </section>
 
