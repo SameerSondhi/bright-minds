@@ -26,8 +26,8 @@ export default function CollegePrep() {
             </section>
 
             <section id="contact" className="max-w-3xl mx-auto text-center py-12">
-                <h2 className="text-2xl font-bold mb-4 text-[#1F75CB]">Let’s Craft Your Path</h2>
-                <p className="mb-6">Together, we’ll create a strategy to make your application shine.</p>
+                <h2 className="text-2xl font-bold mb-4 text-[#1F75CB]">Let Us Craft Your Path</h2>
+                <p className="mb-6">Together, we will create a strategy to make your application shine.</p>
                 <a
                     href="mailto:hello@brightmind.com"
                     className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"

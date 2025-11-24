@@ -27,7 +27,7 @@ export default function HighSchoolMath() {
 
             <section id="contact" className="max-w-3xl mx-auto text-center py-12">
                 <h2 className="text-2xl font-bold mb-4 text-[#1F75CB]">Ready to Level Up?</h2>
-                <p className="mb-6">Let’s create a custom study plan that helps you achieve your goals.</p>
+                <p className="mb-6">Let us create a custom study plan that helps you achieve your goals.</p>
                 <a
                     href="mailto:hello@brightmind.com"
                     className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"

@@ -26,7 +26,7 @@ export default function MBAHelp() {
 
             <section id="contact" className="max-w-3xl mx-auto text-center py-12">
                 <h2 className="text-2xl font-bold mb-4 text-[#1F75CB]">Empower Your Journey</h2>
-                <p className="mb-6">We’ll help you tackle your toughest challenges and achieve academic excellence.</p>
+                <p className="mb-6">We will help you tackle your toughest challenges and achieve academic excellence.</p>
                 <a
                     href="mailto:hello@brightmind.com"
                     className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"

@@ -4,7 +4,7 @@ export default function Pricing() {
             <section className="max-w-4xl mx-auto text-center py-12">
                 <h1 className="text-4xl font-extrabold mb-4 text-[#1F75CB]">Flexible Pricing</h1>
                 <p className="text-lg mb-8">
-                    We offer personalized packages to match every learner’s needs. Contact us for a custom quote and to discuss what’s right for you.
+                    We offer personalized packages to match the needs of every learner. Contact us for a custom quote and to discuss what is right for you.
                 </p>
             </section>
 
@@ -27,7 +27,7 @@ export default function Pricing() {
             </section>
 
             <section className="max-w-3xl mx-auto text-center py-12">
-                <p className="mb-6">Not sure which plan fits? Let’s discuss your goals and build a custom approach.</p>
+                <p className="mb-6">Not sure which plan fits? Let us discuss your goals and build a custom approach.</p>
                 <a
                     href="mailto:hello@brightmind.com"
                     className="inline-block bg-[#20C997] text-white font-semibold rounded-full px-6 py-3 hover:bg-[#17b58a] transition"
